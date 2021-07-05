@@ -1,0 +1,22 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "A function that takes one argument, an array that checks if the array passed as an argument is arithmetic, geometric, neither arithmetic nor geometric in progression or if the array is empty.",
+  "main": "testrunner.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/AritGeo.js"
+  },
+  "keywords": [
+    "logic",
+    "test"
+  ],
+  "author": "anaeze",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
